@@ -2,7 +2,7 @@ import Ionicons from "@expo/vector-icons/Ionicons"
 import React from "react";
 import { View, Text, StyleSheet, Image, Pressable } from "react-native";
 
-import pic from "./assets/images/profiley.jpg";
+import pic from "./assets/images/profilee.jpg";
 
 function App() {
  
