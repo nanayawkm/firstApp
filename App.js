@@ -85,20 +85,18 @@ const styles = StyleSheet.create({
     right:75,
   },
   button: {
-    alignItems: 'center',
-    justifyContent: 'center',
-    paddingVertical: 12,
-    paddingHorizontal: 10,
-    borderRadius: 50,
-    elevation: 3,
-    backgroundColor: 'black',
+    marginTop:40,
+    backgroundColor:'black',
+    width:250,
+    alignSelf:'center',
+    height:50,
+    borderRadius:20,
   },
   text: {
-    fontSize: 16,
-    lineHeight: 21,
-    fontWeight: 'bold',
-    letterSpacing: 0.25,
-    color: 'white',
+    color:'white',
+    textAlign:'center',
+    fontSize:20,
+    paddingTop:10,
   }
 });
 
